@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shroukelzoghby/Career-Bloom.git" target="_blank">
-    <img src="public/git-assets/logo.png" alt="CareerBloom">
+    <img src="public/git-assets/logogit.png" alt="CareerBloom">
   </a>
 </p>
 
