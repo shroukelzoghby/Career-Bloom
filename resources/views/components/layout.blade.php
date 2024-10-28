@@ -25,8 +25,14 @@
             <a href="#">Companies</a>
         </div>
         @auth
-            <div class="py-5 px-4 space-x-6">
+            <div class="py-5 px-4 space-x-6 flex">
                 <a href="/jobs/create">Post a Job</a>
+                <form method="POST" action="/logout">
+                    @csrf
+                    @method('DELETE')
+
+                    <button>Log Out</button>
+                </form>
             </div>
         @endauth
         @guest

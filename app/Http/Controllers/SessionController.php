@@ -47,9 +47,9 @@ class SessionController extends Controller
 
 
 
-    public function destroy(string $id)
+    public function destroy()
     {
         Auth::logout();
-        return redirect('/login');
+        return redirect('/');
     }
 }
