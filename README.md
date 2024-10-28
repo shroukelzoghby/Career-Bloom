@@ -1,15 +1,14 @@
 <p align="center">
   <a href="https://github.com/shroukelzoghby/Career-Bloom.git" target="_blank">
-    <img src="public/git-assets/logogit.png" alt="CareerBloom">
+    <img src="public/git-assets/logo.png" alt="CareerBloom">
   </a>
 </p>
 
-# CareerBloom
+# Career-Bloom
 
-### 30 Days to Learn Laravel
+**30 Days to Learn Laravel - Final Project**
 
-This project is a final project in (30 Days to Learn Laravel - laracasts)
-#### https://laracasts.com/series/30-days-to-learn-laravel-11
+CareerBloom is a job platform project developed as part of the [30 Days to Learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11) course on Laracasts.
 
 ---
 ## Table of Contents
